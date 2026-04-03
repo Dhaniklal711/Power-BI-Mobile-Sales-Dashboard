@@ -1,0 +1,1 @@
+📊 Mobile Sales Analysis Dashboard built using Power BI. This project analyzes sales by city, brand, model, and payment method. Includes KPIs, trends, customer ratings, and interactive filters. Helps in understanding business performance and making data-driven decisions effectively.
