@@ -10,11 +10,10 @@ The dashboard is designed to make data easy to understand and support better bus
 ---
 
 ## 📸 Dashboard Preview
+Screenshort of mobile Sales Dashboard 
 
-![Dashboard Preview](<img width="1364" height="749" alt="Mobile Sales Dashboard image" src="https://github.com/user-attachments/assets/9af41d79-1e92-45ff-a435-a5c27ce9a235" />
-)
+---![Uploading Mobile Sales Dashboard image.png…]()
 
----
 
 ## 🎯 Key Highlights
 
